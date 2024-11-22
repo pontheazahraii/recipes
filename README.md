@@ -7,8 +7,12 @@ An open source cookbook by [Ponthea Zahraii](https://github.com/pontheazahraii) 
 ```
 ├── desserts/
 │   └── cccow_cookies.md
-└── fall_favorites/
-    └── pumpkin_chili.md
+├── dinners/
+│   └── chicken_parm.md
+├── fall_favorites/
+│   └── pumpkin_chili.md
+└── sides/
+    └── roasted_parm_carrots.md
 ```
 
 ## Favorites

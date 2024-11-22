@@ -2,7 +2,7 @@
 
 Post by [Ponthea Zahraii](https://github.com/pontheazahraii)
 
-Makes 32 cookies
+Yields 32 cookies
 
 ## Ingredients
 

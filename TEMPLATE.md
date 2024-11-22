@@ -2,7 +2,7 @@
 
 Post by ...
 
-Makes ... servings
+Yields ... servings
 
 ## Ingredients
 
@@ -21,6 +21,10 @@ Makes ... servings
 ## Instructions
 
 1. ...
+
+## Notes 
+
+- 
 
 ## Credits
 

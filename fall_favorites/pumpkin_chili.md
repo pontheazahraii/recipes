@@ -2,7 +2,7 @@
 
 Post by [Ponthea Zahraii](https://github.com/pontheazahraii)
 
-Makes 6-8 servings
+Yields 8-10 servings
 
 ## Ingredients
 
