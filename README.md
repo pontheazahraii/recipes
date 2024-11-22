@@ -6,7 +6,7 @@ An open source cookbook by [Ponthea Zahraii](https://github.com/pontheazahraii) 
 
 ```
 ├── desserts/
-│   └── cccow-cookies.md
+│   └── cccow_cookies.md
 └── fall_favorites/
     └── pumpkin_chili.md
 ```
