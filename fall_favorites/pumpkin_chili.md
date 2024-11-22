@@ -2,7 +2,7 @@
 
 Post by [Ponthea Zahraii](https://github.com/pontheazahraii)
 
-Yields 8-10 servings
+Yields 6-8 servings
 
 ## Ingredients
 
