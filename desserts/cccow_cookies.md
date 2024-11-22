@@ -1,5 +1,5 @@
 # Chocolate Chip Caramel Oat Walnut Cookies 
-
+Post by [Ponthea Zahraii](https://github.com/pontheazahraii)
 ## Ingredients 
 
 * ¾ cup salted butter   
@@ -28,3 +28,6 @@
 * You can roll the cookie dough into balls and put them in a freezer bag to store in the freezer for two months for the best quality. The pre-rolled balls can then be thawed and baked in the oven like in the recipe.   
 * To ensure the cookies are not over baked, remove them from the oven when the edges are golden brown and the middle is soft and gooey.   
 * If the butter is not cooled and added to the mixture, it will cook the eggs, to avoid that the butter must be cooled before adding. 
+
+## Credits 
+* Recipe adapted from [Broma Bakery](https://bromabakery.com/best-chocolate-chip-cookies/)
