@@ -13,4 +13,4 @@ An open source cookbook by [Ponthea Zahraii](https://github.com/pontheazahraii) 
 
 ## Favorites
 
-- [Chocolate Chip Caramel Oat Walnut Cookies](./desserts/cccow-cookies.md)
+- [Chocolate Chip Caramel Oat Walnut Cookies](./desserts/cccow_cookies.md)
