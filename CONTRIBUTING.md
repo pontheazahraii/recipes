@@ -7,7 +7,7 @@ Thanks for checking out our recipe book! If you have an awesome recipe you'd lik
 - Cite your sources: attribute proper credits to the original authors of recipes you adapt
 - Append-only: please do not edit or remove recipes created by other people
 - Directory structure: place seasonal dishes in their respective subdirectories (e.g. fall, holiday, etc.)
-- Recommended sections
+- Recommended sections (check out [TEMPLATE.md](./TEMPLATE.md) for more details)
   - Ingredients
   - Instructions
   - Notes
