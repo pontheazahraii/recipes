@@ -11,7 +11,8 @@ An open source cookbook by [Ponthea Zahraii](https://github.com/pontheazahraii) 
 │   └── chicken_parm.md
 ├── fall_favorites/
 │   ├── pumpkin_chili.md
-│   └── pumpkin_pie.md
+│   ├── pumpkin_pie.md
+│   └── mac_and_cheese.md
 └── sides/
     └── roasted_parm_carrots.md
 ```

@@ -1,4 +1,4 @@
-# Rosemary Mac and Cheese
+# Thyme Mac and Cheese
 
 Post by [Ponthea Zahraii](https://github.com/pontheazahraii)
 
@@ -19,7 +19,7 @@ Yields 12-14 servings
 
 ### Seasonings 
 
-- 5 spirgs thyme
+- 5 spirgs thyme (Optional)
 - Paprika 
 - Salt 
 - Pepper 
@@ -38,6 +38,8 @@ Yields 12-14 servings
 ## Notes 
 
 - If the cheese sauce becomes too thick, gradually add in more milk until the desired consistency is achieved. 
+- Try adding pumpkin puree or butternut squash puree to the mixture to give it some fall flavors. 
+- You can also top with panko for a mac and cheese casserole. 
 
 ## Credits
 
