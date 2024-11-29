@@ -6,7 +6,8 @@ An open source cookbook by [Ponthea Zahraii](https://github.com/pontheazahraii) 
 
 ```
 ├── desserts/
-│   └── cccow_cookies.md
+│   ├── cccow_cookies.md
+│   └── pumpkin_pie.md
 ├── dinners/
 │   └── chicken_parm.md
 ├── fall_favorites/

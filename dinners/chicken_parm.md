@@ -8,10 +8,10 @@ Yields 2 Servings
 
 ### Main Ingredients
 
-- 3/4 Panko bread crumbs 
+- ¾ cup Panko bread crumbs 
 - Olive oil 
 - 1 egg 
-- 1/4 cup grated parmesan cheese 
+- ¼ cup grated parmesan cheese 
 - 3 cloves garlic 
 - 1 cup tomato sauce
 - 1 sprig fresh basil  
