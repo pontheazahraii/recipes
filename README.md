@@ -6,12 +6,12 @@ An open source cookbook by [Ponthea Zahraii](https://github.com/pontheazahraii) 
 
 ```
 ├── desserts/
-│   ├── cccow_cookies.md
-│   └── pumpkin_pie.md
+│   └── cccow_cookies.md
 ├── dinners/
 │   └── chicken_parm.md
 ├── fall_favorites/
-│   └── pumpkin_chili.md
+│   ├── pumpkin_chili.md
+│   └── pumpkin_pie.md
 └── sides/
     └── roasted_parm_carrots.md
 ```
