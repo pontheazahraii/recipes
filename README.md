@@ -9,6 +9,7 @@ An open source cookbook by [Ponthea Zahraii](https://github.com/pontheazahraii) 
 │   └── cccow_cookies.md
 ├── dinners/
 │   └── chicken_parm.md
+│   └── teriyaki_wings.md
 ├── fall_favorites/
 │   ├── pumpkin_chili.md
 │   ├── pumpkin_pie.md
