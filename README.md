@@ -21,6 +21,7 @@ An open source cookbook by [Ponthea Zahraii](https://github.com/pontheazahraii) 
 ## Favorites
 
 - [Chocolate Chip Caramel Oat Walnut Cookies](./desserts/cccow_cookies.md)
+- [Thyme Mac and Cheese](./fall_favorites/mac_and_cheese.md)
 
 # Contributing
 
