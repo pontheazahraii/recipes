@@ -22,10 +22,10 @@ Yields ... servings
 
 1. ...
 
-## Notes 
+## Notes
 
-- 
+-
 
 ## Credits
 
-- Recipe created by
+- Recipe created by / adapted from ...

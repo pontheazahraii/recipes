@@ -25,7 +25,7 @@ Yields 32 cookies
 3. In a separate large bowl, mix together the flour, oats, salt, and baking soda. Slowly add in the wet ingredients and mix. Once combined add in the chocolate, caramel, and walnuts. Mix until fully incorporated making sure not to overmix.
 4. Refrigerate the cookie dough for at least 30 minutes or overnight.
 5. When ready to bake, preheat the oven to 350°F and line a cookie sheet with parchment paper. Round the dough into ping pong sized balls and place them 2 inches apart on the sheet. Bake for 11-13 minutes, or until only the edges are golden brown.
-6. Allow to cool down before eating\!
+6. Allow to cool down before eating!
 
 ## Notes
 
