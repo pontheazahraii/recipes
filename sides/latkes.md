@@ -39,7 +39,7 @@ Yields about 36 latkes
 7. Add flour, salt, pepper, and baking powder and mix thoroughly.
 8. Heat a ¼ inch layer of oil in a frying pan.
 9. For each latke, place a heaping tablespoon of batter in the pan and gently flatten with the back of a spatula. Cook until the edges of the latkes turn brown and start to crisp. Flip and continue cooking until the latkes are cooked through and turn brown.
-10. Transfer to a paper towel to allow the oil to drain. Promptly top each latke with a pinch of flaky sea salt. Enjoy!
+10. Transfer to a paper towel to allow the excess oil to drain. Promptly top each latke with a pinch of flaky sea salt. Enjoy!
 
 ## Notes
 
