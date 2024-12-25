@@ -15,7 +15,7 @@ Yields 8 servings
 - ½ cup cilantro
 - ½ cup parsley
 - ½ cup mint
-- Avocado oil
+- Frying oil
 
 ### Seasonings
 
@@ -31,7 +31,7 @@ Yields 8 servings
 2. Chop the potato and onion.
 3. Place soaked chickpeas, onion, potato, garlic, cumin, coriander, paprika, cayenne pepper, and salt in a food processor. Process until mixture is fine and fully combined.
 4. Chop cilantro, parsley, and mint, add to food processor, and pulse to incorporate.
-5. Shape the falafel mixture into small balls and deep fry in avocado oil until surface is dark brown and crispy. Enjoy!
+5. Shape the falafel mixture into small balls and deep fry until the surface is dark brown and crispy. Transfer to a paper towel to allow the excess oil to drain. Enjoy!
 
 ## Notes
 
