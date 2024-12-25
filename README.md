@@ -17,7 +17,8 @@ An open source cookbook by [Ponthea Zahraii](https://github.com/pontheazahraii) 
 │   └── mac_and_cheese.md
 └── sides/
     ├── roasted_parm_carrots.md
-    └── hummus.md
+    ├── hummus.md
+    └── latkes.md
 ```
 
 ## Favorites
