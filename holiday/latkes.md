@@ -30,7 +30,7 @@ Yields about 36 latkes
 
 ## Instructions
 
-1. Thoroughly wash potatoes before slicing into quarters lengthwise. Slice onion into quarters.
+1. Thoroughly scrub potatoes before slicing into quarters lengthwise. Slice onion into quarters.
 2. Shred potatoes and onion with a food processor using a coarse grating disc. Alternatively, slice potatoes and onions into thin shreds.
 3. Place the combined potatoes and onions in a clean dish towel and wring out as much excess moisture as possible into a bowl.
 4. Wait a few minutes for the starch to settle. Carefully discard the water, making sure the white starchy substance is left at the bottom of the bowl.
@@ -43,6 +43,7 @@ Yields about 36 latkes
 
 ## Notes
 
+- Potatoes can optionally be peeled before slicing.
 - Refrigerate the leftover batter for future use.
 
 ## Credits

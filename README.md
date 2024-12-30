@@ -15,9 +15,10 @@ An open source cookbook by [Ponthea Zahraii](https://github.com/pontheazahraii) 
 │   ├── pumpkin_chili.md
 │   ├── pumpkin_pie.md
 │   └── mac_and_cheese.md
-└── sides/
-    ├── roasted_parm_carrots.md
-    ├── hummus.md
+├── sides/
+│   ├── roasted_parm_carrots.md
+│   └── hummus.md
+└── holiday/
     └── latkes.md
 ```
 
