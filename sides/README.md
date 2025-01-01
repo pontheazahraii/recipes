@@ -6,3 +6,4 @@ A bunch of delicious side dishes
 
 - [Roasted Parmesan Carrots](./roasted_parm_carrots.md)
 - [Confit Garlic Hummus](./hummus.md)
+- [Green Beans Almondine](./almondine.md)

@@ -17,13 +17,17 @@ Always remember to season with your heart!
 │   ├── pumpkin_chili.md
 │   ├── pumpkin_pie.md
 │   └── mac_and_cheese.md
+├── sauces/
+│   └── dijon_vinegairette.md
 ├── sides/
 │   ├── roasted_parm_carrots.md
-│   └── hummus.md
-└── winter_holidays/
-│   ├── latkes.md
-│   ├── apple_chutney.md
-    └── spiced_sour_cream.md
+│   ├── hummus.md
+│   └── almondine.md
+├──  winter_holidays/
+│   ├── hanukkah/
+│   │   ├── latkes.md
+│   │   ├── apple_chutney.md
+│   │   └── spiced_sour_cream.md
 ```
 
 ## Favorites
