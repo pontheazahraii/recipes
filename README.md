@@ -2,6 +2,8 @@
 
 An open source cookbook by [Ponthea Zahraii](https://github.com/pontheazahraii) and [Nataniel Farzan](https://github.com/natanielf).
 
+Always remember to season with your heart! 
+
 ## Chapters
 
 ```
@@ -18,8 +20,10 @@ An open source cookbook by [Ponthea Zahraii](https://github.com/pontheazahraii) 
 ├── sides/
 │   ├── roasted_parm_carrots.md
 │   └── hummus.md
-└── holiday/
-    └── latkes.md
+└── winter_holidays/
+│   ├── latkes.md
+│   ├── apple_chutney.md
+    └── spiced_sour_cream.md
 ```
 
 ## Favorites

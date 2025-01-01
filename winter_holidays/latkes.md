@@ -17,8 +17,8 @@ Yields about 36 latkes
 
 ### Seasonings
 
-- 1 tsp salt
-- ½ tsp black pepper
+- Salt
+- Black pepper
 - Flaky sea salt
 
 ### Toppings
@@ -45,6 +45,7 @@ Yields about 36 latkes
 
 - Potatoes can optionally be peeled before slicing.
 - Refrigerate the leftover batter for future use.
+- Top with the [apple-date chutney](./apple_chutney.md) and [spiced sour cream](./spiced_sour_cream.md)! 
 
 ## Credits
 
