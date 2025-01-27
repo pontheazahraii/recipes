@@ -8,7 +8,8 @@ Always remember to season with your heart!
 
 ```
 ├── desserts/
-│   └── cccow_cookies.md
+│   ├── cccow_cookies.md
+│   └── chia_pudding.md
 ├── dinners/
 │   ├── chicken_parm.md
 │   ├── teriyaki_wings.md
