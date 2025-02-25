@@ -6,7 +6,7 @@ Yields 32 cookies
 
 ## Ingredients
 
-- ¾ cup unsalted butter
+- ¾ cup salted butter
 - 1 cup raw sugar
 - 2 eggs
 - 1 tbsp vanilla extract
