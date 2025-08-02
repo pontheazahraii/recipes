@@ -19,7 +19,7 @@ Yields 12-14 servings
 
 ### Seasonings
 
-- 5 spirgs thyme (Optional)
+- 5 Sprigs thyme (Optional)
 - Paprika
 - Salt
 - Pepper
