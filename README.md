@@ -1,6 +1,6 @@
 # Recipes
 
-An open source cookbook by [Ponthea Zahraii](https://github.com/pontheazahraii) and [Nataniel Farzan](https://github.com/natanielf).
+An open source cookbook by [Ponthea Zahraii](https://github.com/pontheazahraii).
 
 Always remember to season with your heart! 
 
