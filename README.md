@@ -36,7 +36,7 @@ Always remember to season with your heart!
 ## Favorites
 
 - [Chocolate Chip Caramel Oat Walnut Cookies](./desserts/cccow_cookies.md)
-- [Thyme Mac and Cheese](./fall_favorites/mac_and_cheese.md)
+- [Mac and Cheese](./fall_favorites/mac_and_cheese.md)
 
 ## Contributing
 
