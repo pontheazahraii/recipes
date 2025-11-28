@@ -25,7 +25,8 @@ Always remember to season with your heart!
 │   ├── roasted_parm_carrots.md
 │   ├── hummus.md
 │   ├── almondine.md
-│   └── pickles.md
+│   ├── pickles.md
+│   └── roasted_potatoes.md
 ├──  winter_holidays/
 │   ├── hanukkah/
 │   │   ├── latkes.md
