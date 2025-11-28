@@ -8,3 +8,4 @@ A bunch of delicious side dishes
 - [Confit Garlic Hummus](./hummus.md)
 - [Green Beans Almondine](./almondine.md)
 - [Pickles](./pickles.md)
+- [Roasted Potatoes](./roasted_potatoes.md)
