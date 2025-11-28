@@ -38,6 +38,7 @@ Always remember to season with your heart!
 
 - [Chocolate Chip Caramel Oat Walnut Cookies](./desserts/cccow_cookies.md)
 - [Mac and Cheese](./fall_favorites/mac_and_cheese.md)
+- [Roasted Potatoes](./sides/roasted_potatoes.md)
 
 ## Contributing
 
