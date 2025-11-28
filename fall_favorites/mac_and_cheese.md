@@ -10,7 +10,8 @@ Yields 12-14 servings
 
 - 16 oz sharp cheddar cheese
 - 8 oz monterey jack
-- 8 oz mozarella cheese
+- 4 oz mozarella cheese
+- 4 oz gruyere cheese
 - 16 oz pasta
 - 1 pt half and half
 - 1 cup milk
