@@ -1,4 +1,4 @@
-# Apple-Date Chutney 
+# Spiced Sour Cream 
 
 Post by [Ponthea Zahraii](https://github.com/pontheazahraii)
 
