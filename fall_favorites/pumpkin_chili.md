@@ -2,13 +2,13 @@
 
 Post by [Ponthea Zahraii](https://github.com/pontheazahraii)
 
-Yields 6-8 servings
+Yields 3-5 servings
 
 ## Ingredients
 
 ### Main Ingredients
 
-- 1 medium-sized pumpkin
+- 1 medium-sized pumpkin (or 1 can pumkin puree)
 - ½ lb ground beef
 - 2 oz tomato paste 
 - 3 tomatoes 
@@ -24,6 +24,7 @@ Yields 6-8 servings
 - Tumeric
 - Cinnamon
 - Cumin
+- Cayenne 
 - Paprika
 - Garlic Powder
 - Herbs
