@@ -37,6 +37,7 @@ Always remember to season with your heart!
 ## Favorites
 
 - [Chocolate Chip Caramel Oat Walnut Cookies](./desserts/cccow_cookies.md)
+- [Banana Bread](./desserts/banana_bread.md)
 - [Mac and Cheese](./fall_favorites/mac_and_cheese.md)
 - [Roasted Potatoes](./sides/roasted_potatoes.md)
 
