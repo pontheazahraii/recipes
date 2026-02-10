@@ -10,8 +10,7 @@ Submitted by [Cody Emrick](https://github.com/ce-kazvu)
 - 1 pack no-boil lasagna noodles
 - Low-moisture mozzarella
 
-### Seasonings
-
+### Spices
 - Salt
 
 ## Instructions

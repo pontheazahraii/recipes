@@ -7,31 +7,39 @@ Always remember to season with your heart!
 ## Chapters
 
 ```
+├── breakfast/
+│   └── waffles.md
 ├── desserts/
-│   ├── cccow_cookies.md
-│   ├── chia_pudding.md
-│   └── banana_bread.md
+│   ├── banana_bread.md
+│   ├── butterscotch_cookies.md
+│   ├── cccow_cookies.md
+│   └── chia_pudding.md
 ├── dinners/
-│   ├── chicken_parm.md
-│   ├── teriyaki_wings.md
-│   └── falafel.md
+│   ├── chicken_parm.md
+│   ├── falafel.md
+│   ├── lasagna.md
+│   └── teriyaki_wings.md
 ├── fall_favorites/
-│   ├── pumpkin_chili.md
-│   ├── pumpkin_pie.md
-│   └── mac_and_cheese.md
+│   ├── mac_and_cheese.md
+│   ├── pumpkin_chili.md
+│   └── pumpkin_pie.md
+├── fillings/
+│   └── ripieno_di_ricotta.md
 ├── sauces/
-│   └── dijon_vinegairette.md
+│   ├── besciamella.md
+│   ├── dijon_vinegairette.md
+│   └── ragu_bolognese.md
 ├── sides/
-│   ├── roasted_parm_carrots.md
-│   ├── hummus.md
-│   ├── almondine.md
-│   ├── pickles.md
-│   └── roasted_potatoes.md
-├──  winter_holidays/
-│   ├── hanukkah/
-│   │   ├── latkes.md
-│   │   ├── apple_chutney.md
-│   │   └── spiced_sour_cream.md
+│   ├── almondine.md
+│   ├── hummus.md
+│   ├── pickles.md
+│   ├── roasted_parm_carrots.md
+│   └── roasted_potatoes.md
+└── winter_holidays/
+    └── hanukkah/
+        ├── apple_chutney.md
+        ├── latkes.md
+        └── spiced_sour_cream.md
 ```
 
 ## Favorites

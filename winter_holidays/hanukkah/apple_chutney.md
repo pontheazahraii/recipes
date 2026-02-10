@@ -17,8 +17,7 @@ Yields 3 servings (good for 15 latkes)
 - ⅓ cup packed light brown sugar 
 - ½ lemon 
 
-### Seasonings
-
+### Spices
 - Cardamon 
 - Cinnamon 
 - Cloves 

@@ -12,8 +12,7 @@ Submitted by [Cody Emrick](https://github.com/ce-kazvu)
 - 2 cups shredded mozzarella
 - 1/2 cup grated Parmigiano-Reggiano
 
-### Seasonings
-
+### Spices
 - Salt
 - Black Pepper
 - Nutmeg

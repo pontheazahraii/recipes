@@ -18,8 +18,7 @@ Yields 12-14 servings
 - ½ stick butter
 - ¼ cup flour
 
-### Seasonings
-
+### Spices
 - 5 Sprigs thyme (Optional)
 - Paprika
 - Salt

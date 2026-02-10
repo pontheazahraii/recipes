@@ -10,8 +10,7 @@ Yields ... servings
 
 - ...
 
-### Seasonings
-
+### Spices
 - ...
 
 ### Toppings

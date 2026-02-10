@@ -17,8 +17,7 @@ Yields 8 servings
 - ½ cup mint
 - Frying oil
 
-### Seasonings
-
+### Spices
 - 1 tsp ground cumin
 - 1 tsp ground coriander
 - 1 tsp paprika

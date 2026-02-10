@@ -16,8 +16,7 @@ Yields 2 Servings
 - 1 cup tomato sauce
 - 1 sprig fresh basil
 
-### Seasonings
-
+### Spices
 - Salt
 - Pepper
 - Oregano

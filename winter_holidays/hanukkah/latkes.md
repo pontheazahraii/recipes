@@ -15,8 +15,7 @@ Yields about 36 latkes
 - 1 tsp baking powder
 - Frying oil
 
-### Seasonings
-
+### Spices
 - Salt
 - Black pepper
 - Flaky sea salt

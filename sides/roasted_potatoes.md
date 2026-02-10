@@ -12,8 +12,7 @@ Yields 4–6 servings
 - 2 tbsp olive oil
 - ½ lemon (juice + optional zest)
 
-### Seasonings
-
+### Spices
 - 2–3 cloves garlic, minced
 - Fresh dill, chopped (2–3 tbsp + more for garnish)
 - 1-2 tsp Dijon mustard

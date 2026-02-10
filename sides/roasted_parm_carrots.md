@@ -11,8 +11,7 @@ Yields 2 servings
 - 4 large carrots
 - ½ cup grated Parmesan cheese
 
-### Seasonings
-
+### Spices
 - Salt
 - Pepper
 - Paprika

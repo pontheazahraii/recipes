@@ -12,8 +12,7 @@ Yields 1 jar
 - 1 cup Water
 - 2 tbsp Salt 
 
-### Seasonings 
-
+### Spices
 - Your favorite pickling spices
 
 ## Instructions

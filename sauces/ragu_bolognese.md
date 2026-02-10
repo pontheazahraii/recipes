@@ -25,8 +25,7 @@ A hearty bolognese sauce that is perfect for filling a lasagna or topping pasta.
 - 2 cups chicken stock
 - 1/2 cups heavy cream
 
-### Seasonings
-
+### Spices
 - Salt
 - Black Pepper
 - Red Pepper Flake

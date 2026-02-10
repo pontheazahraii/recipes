@@ -9,8 +9,7 @@ Submitted by [Cody Emrick](https://github.com/ce-kazvu)
 - 3 cups ricotta
 - 2 eggs
 
-### Seasonings
-
+### Spices
 - Salt
 - Black Pepper
 - Basil

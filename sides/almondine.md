@@ -15,8 +15,7 @@ Yields 4 servings
 - 1 garlic clove 
 - ½ fresh lemon, juiced
 
-### Seasonings
-
+### Spices
 - Salt 
 - Pepper
 

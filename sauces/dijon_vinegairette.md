@@ -14,8 +14,7 @@ Yields 4-6 servings
 - 1 tbsp honey 
 - 1 clove garlic, grated or minced
 
-### Seasonings
-
+### Spices
 - Salt 
 - Black Pepper
 

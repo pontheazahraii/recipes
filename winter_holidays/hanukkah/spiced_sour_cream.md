@@ -11,8 +11,7 @@ Yields 3 servings (good for 15 latkes)
 - ½ cup sour cream 
 - 1 tsp maple syrup 
 
-### Seasonings
-
+### Spices
 - Cinnamon
 
 ## Instructions

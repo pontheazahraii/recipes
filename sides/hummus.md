@@ -17,8 +17,7 @@ Yields 4 servings
 - ¼ cup lemon juice
 - Ice-cold water
 
-### Seasonings
-
+### Spices
 - Salt
 
 ## Instructions

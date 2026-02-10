@@ -7,3 +7,4 @@ Dinner ideas
 - [Chicken Parm](./chicken_parm.md)
 - [Teriyaki Wings](./teriyaki_wings.md)
 - [Falafel](./falafel.md)
+- [Lasagna](./lasagna.md)

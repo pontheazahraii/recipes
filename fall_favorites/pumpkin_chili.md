@@ -17,8 +17,7 @@ Yields 3-5 servings
 - 2 jalapeño
 - 2 can beans (kidney, black, or pinto)
 
-### Seasonings
-
+### Spices
 - Salt
 - Pepper
 - Tumeric

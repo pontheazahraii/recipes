@@ -10,8 +10,7 @@ Yields 2 servings
 
 - 12 chicken wings
 
-### Seasonings
-
+### Spices
 - Teriyaki sauce
 
 ## Instructions
