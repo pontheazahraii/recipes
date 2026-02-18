@@ -6,8 +6,6 @@ Yields 2 servings
 
 ## Ingredients
 
-### Main Ingredients
-
 - 2 tsp loose-leaf black tea (preferably Ceylon or Persian blend)
 - 2 cups (480ml) filtered water
 - Optional: 1-2 cardamom pods, rose petals, or a small piece of dried lime (limoo amani)
