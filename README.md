@@ -19,6 +19,9 @@ Always remember to season with your heart!
 │   ├── falafel.md
 │   ├── lasagna.md
 │   └── teriyaki_wings.md
+├── drinks/
+│   ├── matcha.md
+│   └── persian_tea.md
 ├── fall_favorites/
 │   ├── mac_and_cheese.md
 │   ├── pumpkin_chili.md
