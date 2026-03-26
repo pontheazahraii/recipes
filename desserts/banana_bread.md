@@ -14,7 +14,7 @@ Yields 1 loaf
 - ½ tsp (1g) ground cinnamon
   
 - ½ cup (100g) white sugar
-- ½ cuo (100g) brown sugar, light or dark
+- ½ cup (100g) brown sugar, light or dark
 - 2 large eggs
 - 4 tbsp (60g) buttermilk (or yogurt) 
 - 1 tsp vanilla bean paste or extract
