@@ -19,7 +19,7 @@ Yields 1 loaf
 - 4 tbsp (60g) buttermilk (or yogurt) 
 - 1 tsp vanilla bean paste or extract
 - ½ cup extra virgin olive oil
-- 4 vevy very ripe bananas, mashed 
+- 4 very ripe bananas, mashed 
 
 ## Instructions
 
