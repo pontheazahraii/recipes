@@ -29,6 +29,8 @@ Always remember to season with your heart!
 │   └── pumpkin_pie.md
 ├── fillings/
 │   └── ripieno_di_ricotta.md
+├── persian/
+│   └── ghormeh_sabzi.md
 ├── sauces/
 │   ├── besciamella.md
 │   ├── dijon_vinegairette.md
@@ -52,6 +54,7 @@ Always remember to season with your heart!
 - [Banana Bread](./desserts/banana_bread.md)
 - [Mac and Cheese](./fall_favorites/mac_and_cheese.md)
 - [Roasted Potatoes](./sides/roasted_potatoes.md)
+- [Ghormeh Sabzi](./persian/ghormeh_sabzi.md)
 
 ## Contributing
 
