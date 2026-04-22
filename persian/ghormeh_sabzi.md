@@ -12,7 +12,7 @@ Yields 6 servings
 - 1 bunch cilantro
 - 1 bunch fenugreek (or ⅓ cup dried fenugreek)
 - 1 bag baby spinach
-- 5 scallions
+- 1 bunch scallions
 
 ### Stew Base
 
@@ -32,10 +32,10 @@ Yields 6 servings
 3. Add soaked beans to a pot, cover with fresh water, and bring to a boil. Reduce to a simmer and cook 45-60 minutes until mostly tender but not falling apart. Drain and set aside.
 4. Heat a little olive oil in a skillet over medium heat. Add the chopped herbs and saute until the moisture evaporates, the herbs darken, and the mixture becomes deeply fragrant. Set aside.
 5. In a large pot, saute the onion in olive oil until golden.
-6. Add the beef, salt, and turmeric. Brown the beef well.
+6. Add the beef, black pepper, and turmeric. Brown the beef well.
 7. Add the par-cooked beans, dried limes, water, and cooked herb mixture.
 8. Bring to a boil, then reduce heat to low, cover, and simmer for 4 hours.
-9. Taste and adjust salt at the end. The longer it cooks, the richer and deeper the flavor.
+9. Taste and salt at the end. The longer it cooks, the richer and deeper the flavor.
 10. Serve with basmati rice and tahdig, if desired.
 
 ## Notes
