@@ -11,7 +11,7 @@ Yields 6 servings
 - 2 bunches parsley
 - 1 bunch cilantro
 - 1 bunch fenugreek (or ⅓ cup dried fenugreek)
-- 1 bag baby spinach
+- 1 bag baby spinach (12 oz)
 - 1 bunch scallions
 
 ### Stew Base
