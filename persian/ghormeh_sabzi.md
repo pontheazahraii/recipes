@@ -18,7 +18,7 @@ Yields 6 servings
 
 - Olive oil
 - 1 large yellow onion, finely chopped
-- Beef stew chunks
+- 2 lbs beef stew chunks
 - Salt
 - 1 tbsp turmeric
 - 2 dried limes
@@ -41,9 +41,8 @@ Yields 6 servings
 ## Notes
 
 - This is a recipe you measure with your heart.
-- If you want a milder herb profile, reduce baby spinach to ⅔ bag.
 - If you are short on time, substitute 1 can kidney beans (drained and rinsed) for the dried beans.
-- Pressure cooker option: after sauteing and combining everything, cook at high pressure for 35-40 minutes if using par-cooked dried beans (or 25-30 minutes if beans are fully cooked), then let pressure release naturally for 15-20 minutes before adjusting salt and serving.
+- Pressure cooker option: after sauteing and combining everything, cook at high pressure for 20 minutes, then let pressure release naturally for 15-20 minutes before adjusting salt and serving.
 
 ## Credits
 
